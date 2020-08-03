@@ -21,8 +21,8 @@ len	equ	$ - msg
 ### About Me
 
 * 🔜🎓 Computer Science
-* You can find my works / contributions in almost every CS:S / CS:GO server
-* For private works, contact me on Discord! (Bots, Plugins, FiveM Resources, Scripts, etc...)
+* You can find my works / contributions in almost every CS:S / CS:GO / FiveM server
+* For private works, contact me on Discord! (Bots, Plugins, FiveM Resources, Scripts, Cheats, etc...)
 
 ---
 
