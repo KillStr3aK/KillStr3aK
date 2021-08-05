@@ -22,7 +22,7 @@ len	equ	$ - msg
 
 * 🔜🎓 Computer Science
 * You can find my works / contributions in almost every CS:S / CS:GO server
-* For private works, contact me on Discord! (Bots, Plugins, FiveM Resources, Scripts, Cheats, etc...)
+* For private works, contact me on Discord! (Bots, Plugins, FiveM Resources, Scripts, Cheats, Websites, APIs, etc...)
 
 ---
 
