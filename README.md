@@ -1,4 +1,4 @@
-<div align = "center"><img src="https://cdn.discordapp.com/attachments/871054615737671730/873094665124065290/eternar_256.png"></div>
+<div align = "center"><img src="https://media.discordapp.net/attachments/871054615737671730/878381455535915038/ico_highres.png?ex=670ae1fa&is=6709907a&hm=fa0199a4e17267b79300d1c686ff674ceeec74236fb58bd455bd5f979162ec1f&=&format=webp&quality=lossless&width=256&height=256"></div>
 
 ```assembly
 section	.text
