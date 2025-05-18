@@ -1,4 +1,4 @@
-<div align = "center"><img src="https://media.discordapp.net/attachments/871054615737671730/878381455535915038/ico_highres.png?ex=670ae1fa&is=6709907a&hm=fa0199a4e17267b79300d1c686ff674ceeec74236fb58bd455bd5f979162ec1f&=&format=webp&quality=lossless&width=256&height=256"></div>
+<div align = "center"><img src="https://media.discordapp.net/attachments/871054615737671730/878381455535915038/ico_highres.png?ex=682af1ba&is=6829a03a&hm=2c7ea1c5738d7152e0a49e1a27a6c226634a4a60746d53adc6c5d112a0f12727&=&format=webp&quality=lossless&width=256&height=256"></div>
 
 ```assembly
 section	.text
